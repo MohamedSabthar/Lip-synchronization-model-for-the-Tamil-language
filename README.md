@@ -122,3 +122,6 @@
 ### Pre-trained model
 
 To try our trained model download the preporocessor and model weights from [WeightsAndPreprocessor.zip](https://drive.google.com/file/d/1nRPOQnRJTJzOf20rFS7lXZzyWpGL69mQ/view?usp=sharing) and unzip them inside the `logs` directory
+
+
+###### python implementation will be published soon after publishing the research paper.
