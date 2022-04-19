@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/github/license/MohamedSabthar/Lip-synchronization-model-for-the-Tamil-language"/>
+    <img src="https://img.shields.io/github/license/MohamedSabthar/Lip-synchronization-model-for-the-Tamil-language?style=flat-square"/>
 </div>
 
 <div align="justify">
