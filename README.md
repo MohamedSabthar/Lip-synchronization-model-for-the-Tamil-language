@@ -10,7 +10,7 @@
 
 <div align="justify">
 <p>
- Our model predicts 3D face animation for a given Tamil audio speech with considering the coarticulation effects. Our model achieved a Root Mean Square Error of 0.0648 in our test data split and achieved an 83% of overall subjective accuracy. Further, the Turing test confirmed that participants were unable to distinguish our predicted animation from the ground.
+ Our model predicts 3D face animation for a given Tamil audio speech with considering the coarticulation effects. Our model achieved a Root Mean Square Error of 0.0648 in our test data split and achieved an 83% of overall subjective accuracy. Further, the Turing test confirmed that participants were unable to distinguish our predicted animation from the ground truth.
 </p>
 
 ### Results
